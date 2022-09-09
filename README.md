@@ -1,3 +1,5 @@
+> # Checkout this [redgifs](https://github.com/scrazzz/redgifs) library, it has even more features and is up-to-date.
+
 ## redgifs-dl
 A command line tool to download videos from redgifs.com
 
